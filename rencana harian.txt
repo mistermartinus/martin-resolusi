@@ -1,0 +1,2 @@
+setiap hari bangun pagi jam 7   = tidur jam 11
+olahraga setiap pagi  = gym pagi 
